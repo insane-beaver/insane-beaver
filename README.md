@@ -3,7 +3,7 @@
 - 💞️ I’m looking for a job at this area
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov-9828441b7/)
-  - [Telegram](https://t.me/InsaneBeaver)
+  - [Telegram](https://t.me/OleksandrVaskov)
   - E-mail: olexandrvaskov@gmail.com
 
 <!---
