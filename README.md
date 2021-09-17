@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Oleksandr Vaskov**
-- 👀 I’m interested in `front-end development`
-- 💞️ I’m looking for a job at this area
+- 👀 I’m interested in `web development`
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov-9828441b7/)
   - [Telegram](https://t.me/OleksandrVaskov)
