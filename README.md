@@ -1,8 +1,8 @@
 - 👋 Hi, I’m **Oleksandr Vaskov**
 - 👀 I’m interested in `web development`
 - 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov-9828441b7/)
-  - [Telegram](https://t.me/OleksandrVaskov)
+  - [LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov/)
+  - [Telegram](https://t.me/Vaskov_O)
   - E-mail: olexandrvaskov@gmail.com
 
 <!---
