@@ -1,11 +1,18 @@
-- 👋 Hi, I’m **Oleksandr Vaskov**
-- 👀 I’m interested in `web development`
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov/)
-  - [Telegram](https://t.me/Vaskov_O)
-  - E-mail: olexandrvaskov@gmail.com
+### Hi, I'm Oleksandr 👋
 
-<!---
-insane-beaver/insane-beaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack developer from Ukraine 🇺🇦 with ~5 years of commercial experience.
+These days I work mostly in the Microsoft ecosystem: Dynamics 365, Power Platform and Azure, with React and .NET on top.
+
+- 💼 Developer at **Dynamica Labs**
+- 🛠️ Building React web components, PCF controls, C# plugins, Azure WebJobs and Power Automate integrations
+- 🧭 Previously: Angular + .NET Core + MS SQL web apps
+- 🎓 Computer Engineering (BSc, MSc), Khmelnytskyi National University
+
+**Stack**
+
+`C#` `.NET` `TypeScript` `React` `Angular` `MS SQL`  
+`Dynamics 365` `Dataverse` `Power Automate` `Power Pages` `PCF` `Azure`
+
+**Reach me**
+
+[LinkedIn](https://www.linkedin.com/in/oleksandr-vaskov/) · [Telegram](https://t.me/OVaskov) · olexandrvaskov@gmail.com
